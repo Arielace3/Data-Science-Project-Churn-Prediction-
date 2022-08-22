@@ -1,6 +1,6 @@
 # Data-Science-Project-Churn-Prediction-
 
-A Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Sparkify from Udacity.
+A	team-based project using Python, NumPy, Pandas, matplotlib and seaborn.
 
 **Problem Definition**
 - Are we able to predict if a paid user will churn based on the user's activity on the platform?
